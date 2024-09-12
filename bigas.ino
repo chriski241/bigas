@@ -96,4 +96,4 @@ void updateSerial() {
   }
 }
 
-// © 2024 Christian Campolo. All right reserved
+// © 2024 Christian Campolo. All rights reserved
